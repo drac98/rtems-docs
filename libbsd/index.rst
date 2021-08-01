@@ -21,3 +21,4 @@ RTEMS LibBSD User Manual (|version|).
 
 	introduction
 	quick_start
+	device_driver
