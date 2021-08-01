@@ -35,7 +35,8 @@ build_all = ['user',
              'shell',
              'cpu-supplement',
              'develenv',
-             'legacy-networking']
+             'legacy-networking',
+             'libbsd']
 
 building = build_all
 
